@@ -79,8 +79,4 @@ nodeSelector: {}
 
 tolerations: []
 
-affinity: {}
-
-
-git config --global    user.name     malanka7
-git config --global    user.email     karmashvera@gmail.com
+affinity: {} 
